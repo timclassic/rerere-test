@@ -1,2 +1,2 @@
-Dummy (hey dummy) README.
-Foobar baz.
+Dummy (hey dummy, so mean) README.
+Foobar baz, no more conflicts.
