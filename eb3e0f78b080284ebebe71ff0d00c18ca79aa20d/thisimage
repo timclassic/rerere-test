@@ -1,0 +1,9 @@
+Hello there.
+<<<<<<<
+Line 2 is now the same, but worse.
+=======
+Line 2 is now worse.
+Line 3 is the best.
+>>>>>>>
+Line 4 sucks.
+
